@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/mfreilich/financial.js.git",
+      "/media/beosdev/7a0bc077-1234-460a-8cb2-91be75506de0/linhlbh/Capstone/yoodoo/yoodoo-api"
+    ]
+  ],
+  "_from": "git+https://github.com/mfreilich/financial.js.git",
+  "_id": "financial@git+https://github.com/mfreilich/financial.js.git#0c326aa4301a68daf6e733b36779870edb7d742f",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/financial",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/mfreilich/financial.js.git",
+    "rawSpec": "git+https://github.com/mfreilich/financial.js.git",
+    "saveSpec": "git+https://github.com/mfreilich/financial.js.git",
+    "fetchSpec": "https://github.com/mfreilich/financial.js.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mfreilich/financial.js.git#0c326aa4301a68daf6e733b36779870edb7d742f",
+  "_spec": "git+https://github.com/mfreilich/financial.js.git",
+  "_where": "/media/beosdev/7a0bc077-1234-460a-8cb2-91be75506de0/linhlbh/Capstone/yoodoo/yoodoo-api",
+  "author": {
+    "name": "Max Freilich",
+    "email": "maxfreilich@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mfreilich/financial.js/issues"
+  },
+  "dependencies": {
+    "moment": "*"
+  },
+  "description": "Implementation of Microsoft Excel financial functions in JavaScript",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "homepage": "https://github.com/mfreilich/financial.js#readme",
+  "keywords": [
+    "financial",
+    "excel",
+    "spreadsheet",
+    "calc",
+    "depreciation",
+    "interest",
+    "bonds"
+  ],
+  "main": "financial.js",
+  "name": "financial",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfreilich/financial.js.git"
+  },
+  "scripts": {},
+  "version": "0.0.4"
+}
